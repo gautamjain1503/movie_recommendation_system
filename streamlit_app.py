@@ -88,4 +88,4 @@ if click or toggle:
 else:
      st.info("👈  Click on 'Find recommendations' ot turn on 'Toggle Update' to see the color palette.")
 
-st.markdown("Get the code for this [Github](https://www.linkedin.com/in/gautam-jain-02baa222a)")
+st.markdown("Get the code for this [Github](https://github.com/gautamjain1503/movie_recommendation_system)")
